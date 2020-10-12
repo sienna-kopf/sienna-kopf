@@ -11,7 +11,7 @@
 ## SKILLS
 ### LANGUAGES
 <p>
-  <img src="https://img.shields.io/badge/ruby%20-%blueviolet.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/ruby%20-blueviolet.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript%20-%F8C302.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/html5%20-%F8620A.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3%20-%44EC50.svg?&style=for-the-badge&logo=css3&logoColor=white" />
