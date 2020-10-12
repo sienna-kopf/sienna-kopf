@@ -1,21 +1,12 @@
 # SIENNA KOPF
 💃 She / her <br />
-
-*** *** ***
-
 😸 Relentless positivity and a smile is my way of handling every challenge 🧠 
-
 *** *** ***
-
 🧗‍♀️ Rock climbing semi-profesh => 🇺🇸 National Team 2019. 👀 on Paris 2024 Olympic Games 🏆 <br/>
-*** *** ***
 🧠 Thriving off of solving problems on the wall AND in front of my computer screen 👩‍💻 #climberwhocodes <br/>
 *** *** ***
 🎓 Turing School of Software & Design, 2020 <br/>
-*** *** ***
 🔎 [LinkedIn](https://www.linkedin.com/in/sienna-kopf-b22b701b1/) </br>
-*** *** ***
-🏠 Born and raised in Colorado 🏔, currently living, training, and coding in Salt Lake City, Utah <br />
 
 ## SKILLS
 ### LANGUAGES
