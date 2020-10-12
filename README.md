@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/ActiveRecord%20-%23593d88.svg?&style=for-the-badge&logo=ActiveRecord&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL%20-%23593d88.svg?&style=for-the-badge&logo=GraphQL&logoColor=white" />
 </p>
+
 ### FRAMEWORKS
 <p align="center">
   <img src="https://img.shields.io/badge/rails%20-%23007ACC.svg?&style=for-the-badge&logo=rails&logoColor=white" />
@@ -23,6 +24,7 @@
   <img src="https://img.shields.io/badge/node.js%20-%23E34F26.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/express.js%20-%231572B6.svg?&style=for-the-badge&logo=express.js&logoColor=white" />
 </p>
+
 ### TOOLS 
 <p align="center">
   <img src="https://img.shields.io/badge/rspec%20-%23E34F26.svg?&style=for-the-badge&logo=rspec&logoColor=white" />
@@ -32,6 +34,7 @@
   <img src="https://img.shields.io/badge/Postico%20-%23E34F26.svg?&style=for-the-badge&logo=Postico&logoColor=white" />
   <img src="https://img.shields.io/badge/Git%20-%23E34F26.svg?&style=for-the-badge&logo=Git&logoColor=white" />
 </p>
+
 ### PROCESSES
 <p align="center">
   <img src="https://img.shields.io/badge/OOP%20-%23323330.svg?&style=for-the-badge&logo=OOP&logoColor=white" />
