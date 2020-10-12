@@ -1,7 +1,8 @@
 # SIENNA KOPF
 
-🧗‍♀️ Professional Sport Climber
-🔷 Solving problems on the wall, and in front of my computer screen 👩‍💻 
+🧗‍♀️ I love rock climbing!! 🇺🇸 National Team <br/>
+🔷 Solving problems on the wall, and in front of my computer screen 👩‍💻 <br/>
+😁 Relentlessly positive
 🎓 Turing School of Software & Design, 2020 <br/>
 🔎 [LinkedIn](https://www.linkedin.com/in/sienna-kopf-b22b701b1/) </br>
 💃 She / her <br />
