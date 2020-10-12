@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/html5%20-%2320232a.svg?&style=for-the-badge&logo=html5&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/css3%20-%23593d88.svg?&style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20-%23593d88.svg?&style=for-the-badge&logo=SQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-SQL-9735E1?style=for-the-badge&logo=SQL" />
+  <img src="https://img.shields.io/badge/SQL-SQL-9735E1?style=for-the-badge&logo=SQL&logoColor=white" />
   
   <img src="https://img.shields.io/badge/ActiveRecord%20-%23593d88.svg?&style=for-the-badge&logo=ActiveRecord&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL%20-%23593d88.svg?&style=for-the-badge&logo=GraphQL&logoColor=white" />
