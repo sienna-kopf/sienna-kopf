@@ -1,5 +1,8 @@
 # SIENNA KOPF
 💃 She / her <br />
+
+*** *** ***
+
 😸 Relentless positivity and a smile is my way of handling every challenge 🧠 
 
 *** *** ***
