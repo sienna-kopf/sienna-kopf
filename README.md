@@ -27,7 +27,7 @@
 
 ### TOOLS 
 <p>
-  <img src="https://img.shields.io/badge/rspec%20-%23E34F26.svg?&style=for-the-badge&logo=rspec&logoColor=white&?color=F8620A" />
+  <img src="https://img.shields.io/badge/rspec%20-%23E34F26.svg?&style=for-the-badge&logo=rspec&logoColor=white&?color=9735E1&labelColor=9735E1" />
   <img src="https://img.shields.io/badge/heroku%20-%23E34F26.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%20-%23E34F26.svg?&style=for-the-badge&logo=CI&logoColor=white" />
   <img src="https://img.shields.io/badge/Postgres%20-%23E34F26.svg?&style=for-the-badge&logo=Postgres&logoColor=white" />
