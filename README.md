@@ -7,6 +7,7 @@
 *** *** ***
 🎓 Turing School of Software & Design, 2020 <br/>
 🔎 [LinkedIn](https://www.linkedin.com/in/sienna-kopf/) </br>
+🧩 [Learning to Love Writing Tests](https://youtu.be/dPWPyi-0K-s) (Lightning Talk) <br>
 
 ## SKILLS
 ### LANGUAGES
